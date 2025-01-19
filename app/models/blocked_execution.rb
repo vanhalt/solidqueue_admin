@@ -1,0 +1,2 @@
+class BlockedExecution < ApplicationRecord
+end

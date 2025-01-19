@@ -1,0 +1,2 @@
+class ReadyExecution < ApplicationRecord
+end

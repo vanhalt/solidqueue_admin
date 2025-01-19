@@ -1,0 +1,2 @@
+class Pause < ApplicationRecord
+end

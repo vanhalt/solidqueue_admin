@@ -1,0 +1,2 @@
+class Semaphore < ApplicationRecord
+end

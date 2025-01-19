@@ -1,0 +1,2 @@
+class RecurringExecution < ApplicationRecord
+end

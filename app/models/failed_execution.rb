@@ -1,0 +1,2 @@
+class FailedExecution < ApplicationRecord
+end
